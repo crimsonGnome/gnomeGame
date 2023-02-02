@@ -32,7 +32,6 @@ class Player : public GameElement {
                        Color& colorLeft);
   void triangleMirror(Image& image, vector<int>& right, vector<int>& left,
                       Color& colorRight, Color& colorLeft);
-Player
   // Mehtod we have to add
   // We have to create this code.
 
